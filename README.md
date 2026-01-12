@@ -2,7 +2,7 @@
 ## Reingeniería y robustecimiento de la Plataforma Marca Guanajuato
 
 **Elaboró:** Stalyn Uriel Cayetano Blanco  
-**Fecha:** Noviembre 2025  
+**Fecha:** Enero 2026  
 
 ---
 
