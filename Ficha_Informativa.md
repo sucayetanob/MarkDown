@@ -42,6 +42,22 @@ Las funcionalidades desarrolladas e implementadas incluyen:
 
 Este alcance corresponde al **flujo operativo actualmente utilizado por las áreas involucradas**.
 
+---
+## Seguridad y Arquitectura del Sistema
+
+El portal cuenta con un esquema de seguridad basado en **ASP.NET Identity**, desarrollado en **Razor Pages**.
+
+La solución utiliza **SQL Server** como motor de base de datos y contempla el uso de **dos bases de datos independientes**:
+- Una destinada exclusivamente al **almacenamiento y gestión de usuarios, roles y credenciales**.
+- Otra orientada al **almacenamiento de la información operativa del sistema**, garantizando la separación de responsabilidades y un mayor control de la información.
+
+El sistema se encuentra **alojado en la infraestructura tecnológica de la Secretaría de Economía**, cumpliendo con los lineamientos institucionales de seguridad y operación.
+
+Asimismo, el sistema implementa **sesiones con tiempo de caducidad**, reforzando el control de acceso.
+
+Cada pantalla y funcionalidad opera con base en **roles y permisos predefinidos**, asegurando que los usuarios únicamente puedan acceder a las acciones y datos que les corresponden de acuerdo con su perfil.
+
+---
 ## Validación institucional
 
 Durante el desarrollo y puesta en operación del sistema:
