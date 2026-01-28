@@ -42,17 +42,6 @@ Las funcionalidades desarrolladas e implementadas incluyen:
 
 Este alcance corresponde al **flujo operativo actualmente utilizado por las áreas involucradas**.
 
-### Evidencia visual del sistema
-
-- **Imagen 1. Monitor general de solicitudes**, donde se observa el seguimiento integral de las solicitudes a través de los distintos estatus del flujo.
-
-  ![Imagen 1. Monitor general de solicitudes](imagenes/monitor_general_solicitudes.png)
-
-- **Imagen 2. Dashboard de solicitudes validadas**, con visualización gráfica de las solicitudes atendidas por el Funcionario de la Secretaría de Economía.
-
-  ![Imagen 2. Dashboard de solicitudes validadas](imagenes/dashboard_validaciones_funcionario.png)
----
-
 ## Validación institucional
 
 Durante el desarrollo y puesta en operación del sistema:
