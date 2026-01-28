@@ -65,7 +65,6 @@ Durante el desarrollo y puesta en operación del sistema:
 - El flujo fue definido por el área responsable del trámite.
 - Las funcionalidades fueron revisadas mediante historias de usuario, sesiones de trabajo y una presentación institucional realizada el **22 de abril del 2025**, en la cual se determinó el **lanzamiento oficial  de la plataforma el 01 de mayo del 2025**.
 - No se cuenta con actas formales de aceptación firmadas; sin embargo, el sistema fue autorizado para su uso y se encuentra en operación.
-- El primer registro de una solicitud fue el 
 
 ---
 
