@@ -37,9 +37,20 @@ Las funcionalidades desarrolladas e implementadas incluyen:
 - Conclusión de auditoría por parte del auditor.
 - Bitácora de seguimiento y trazabilidad por estatus.
 - Notificaciones automáticas durante el flujo.
+- **Monitor general de solicitudes**, que permite visualizar el total de avance de todas las solicitudes de acuerdo con su estatus dentro del flujo operativo.
+- **Dashboard de validaciones**, que muestra de forma gráfica las solicitudes validadas por el Funcionario de la Secretaría de Economía, permitiendo el monitoreo del avance y carga operativa.
 
 Este alcance corresponde al **flujo operativo actualmente utilizado por las áreas involucradas**.
 
+### Evidencia visual del sistema
+
+- **Imagen 1. Monitor general de solicitudes**, donde se observa el seguimiento integral de las solicitudes a través de los distintos estatus del flujo.
+
+  ![Imagen 1. Monitor general de solicitudes](imagenes/monitor_general_solicitudes.png)
+
+- **Imagen 2. Dashboard de solicitudes validadas**, con visualización gráfica de las solicitudes atendidas por el Funcionario de la Secretaría de Economía.
+
+  ![Imagen 2. Dashboard de solicitudes validadas](imagenes/dashboard_validaciones_funcionario.png)
 ---
 
 ## Validación institucional
